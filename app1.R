@@ -1,5 +1,5 @@
 library(shiny)
-
+popScoreComposerComplete=readRDS("scoreWNation.rds")
 
 ui=fluidPage(
   mainPanel(
